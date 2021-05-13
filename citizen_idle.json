@@ -1,0 +1,615 @@
+{
+	"frames": {
+		"0_Citizen_Idle_000.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_001.png": {
+			"frame": {
+				"x": 703,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_002.png": {
+			"frame": {
+				"x": 1405,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_003.png": {
+			"frame": {
+				"x": 2107,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_004.png": {
+			"frame": {
+				"x": 2809,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_005.png": {
+			"frame": {
+				"x": 3511,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_006.png": {
+			"frame": {
+				"x": 4213,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_007.png": {
+			"frame": {
+				"x": 4915,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_008.png": {
+			"frame": {
+				"x": 5617,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_009.png": {
+			"frame": {
+				"x": 6319,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_010.png": {
+			"frame": {
+				"x": 7021,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_011.png": {
+			"frame": {
+				"x": 7723,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_012.png": {
+			"frame": {
+				"x": 8425,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_013.png": {
+			"frame": {
+				"x": 9127,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_014.png": {
+			"frame": {
+				"x": 9829,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_015.png": {
+			"frame": {
+				"x": 10531,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_016.png": {
+			"frame": {
+				"x": 11233,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_017.png": {
+			"frame": {
+				"x": 11935,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_018.png": {
+			"frame": {
+				"x": 12637,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_019.png": {
+			"frame": {
+				"x": 13339,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_020.png": {
+			"frame": {
+				"x": 14041,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_021.png": {
+			"frame": {
+				"x": 14743,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_022.png": {
+			"frame": {
+				"x": 15445,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_023.png": {
+			"frame": {
+				"x": 16147,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_024.png": {
+			"frame": {
+				"x": 16849,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_025.png": {
+			"frame": {
+				"x": 17551,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_026.png": {
+			"frame": {
+				"x": 18253,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_027.png": {
+			"frame": {
+				"x": 18955,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_028.png": {
+			"frame": {
+				"x": 19657,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		},
+		"0_Citizen_Idle_029.png": {
+			"frame": {
+				"x": 20359,
+				"y": 1,
+				"w": 700,
+				"h": 700
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 700,
+				"h": 700
+			},
+			"sourceSize": {
+				"w": 700,
+				"h": 700
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 21060,
+			"h": 702
+		},
+		"scale": "1"
+	}
+}
