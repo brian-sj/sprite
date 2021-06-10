@@ -1,0 +1,335 @@
+{
+	"textures": [
+		{
+			"image": "controls.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1418,
+				"h": 127
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "left button 125x125.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 125,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 125,
+						"h": 125
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 125,
+						"h": 125
+					}
+				},
+				{
+					"filename": "right button 125x125.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 125,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 125,
+						"h": 125
+					},
+					"frame": {
+						"x": 128,
+						"y": 1,
+						"w": 125,
+						"h": 125
+					}
+				},
+				{
+					"filename": "eraser 120x120.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 120
+					},
+					"frame": {
+						"x": 255,
+						"y": 1,
+						"w": 120,
+						"h": 120
+					}
+				},
+				{
+					"filename": "eraser button 120x120.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 120
+					},
+					"frame": {
+						"x": 377,
+						"y": 1,
+						"w": 120,
+						"h": 120
+					}
+				},
+				{
+					"filename": "pencil button 120x120.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 120
+					},
+					"frame": {
+						"x": 499,
+						"y": 1,
+						"w": 120,
+						"h": 120
+					}
+				},
+				{
+					"filename": "pallet 130x110.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 110
+					},
+					"frame": {
+						"x": 621,
+						"y": 1,
+						"w": 130,
+						"h": 110
+					}
+				},
+				{
+					"filename": "speaker 100x100.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 753,
+						"y": 1,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "photo 80x80.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 80,
+						"h": 80
+					},
+					"frame": {
+						"x": 855,
+						"y": 1,
+						"w": 80,
+						"h": 80
+					}
+				},
+				{
+					"filename": "My level_100x40.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 40
+					},
+					"frame": {
+						"x": 855,
+						"y": 83,
+						"w": 100,
+						"h": 40
+					}
+				},
+				{
+					"filename": "progress bar 480x60.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 480,
+						"h": 60
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 480,
+						"h": 60
+					},
+					"frame": {
+						"x": 937,
+						"y": 1,
+						"w": 480,
+						"h": 60
+					}
+				},
+				{
+					"filename": "p_bar_button_35x60.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 35,
+						"h": 60
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 35,
+						"h": 60
+					},
+					"frame": {
+						"x": 957,
+						"y": 63,
+						"w": 35,
+						"h": 60
+					}
+				},
+				{
+					"filename": "p_bar_start 30x60.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 30,
+						"h": 60
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 30,
+						"h": 60
+					},
+					"frame": {
+						"x": 994,
+						"y": 63,
+						"w": 30,
+						"h": 60
+					}
+				},
+				{
+					"filename": "p_bar_end 25x60.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 25,
+						"h": 60
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 25,
+						"h": 60
+					},
+					"frame": {
+						"x": 1026,
+						"y": 63,
+						"w": 25,
+						"h": 60
+					}
+				},
+				{
+					"filename": "p_bar_blue 20x60.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 20,
+						"h": 60
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 20,
+						"h": 60
+					},
+					"frame": {
+						"x": 1053,
+						"y": 63,
+						"w": 20,
+						"h": 60
+					}
+				},
+				{
+					"filename": "p_bar_white 20x60.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 20,
+						"h": 60
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 20,
+						"h": 60
+					},
+					"frame": {
+						"x": 1075,
+						"y": 63,
+						"w": 20,
+						"h": 60
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:14acaa3251f4e1eb9e66690948cce9f9:3e0360bb970bffff478dbafbd3a0c1e4:13db50ae431b1c60d076cd518d6333b1$"
+	}
+}

@@ -1,0 +1,29 @@
+data={
+	abc : ['A','V','a','o','d','Y'] ,
+	cards : ['apple' , 'arrow', 'anchor' ,'ant'] ,
+	w_cards : ['boat', '' ] 
+}
+
+
+// abc :  ['D','E','b','p','B','d']
+// cards : ['banana' , 'bear', 'bike' ,'butterfly']  
+
+// abc :  ['q','C','G','g','c','d']
+// cards : ['candy' , 'car', 'cow' ,'cup']  
+
+
+// abc :  ['b','B','q','D','E','d']
+// cards : ['deer' , 'dinosaur', 'dog' ,'dove']  
+
+
+// abc :  ['B','E','d','e','F','c']
+// cards : ['egg' , 'elbow', 'elf' ,'Eskimo']  
+
+// abc :  ['E','D','t','F','j','f']
+// cards : ['family' , 'fence', 'fish' ,'frog']  
+
+// abc :  ['C','T','G','b','g','q']
+// cards : ['gift' , 'girl', 'goat' ,'grapes']  
+
+// abc :  ['h','F','H','P','K','I']
+// cards : ['happy' , 'hen', 'hippo' ,'horse']  
