@@ -1,7 +1,7 @@
 data={
 	abc : ['A','V','a','o','d','Y'] ,
 	cards : ['apple' , 'arrow', 'anchor' ,'ant'] ,
-	w_cards : ['boat', '' ] 
+	w_cards : ['banana' , 'bear', 'bike' ,'butterfly'] 
 }
 
 
