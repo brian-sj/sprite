@@ -1,0 +1,95 @@
+{
+	"frames": {
+		"deer.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 133,
+				"h": 170
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 133,
+				"h": 170
+			},
+			"sourceSize": {
+				"w": 133,
+				"h": 170
+			}
+		},
+		"dinosaur.png": {
+			"frame": {
+				"x": 136,
+				"y": 1,
+				"w": 155,
+				"h": 165
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 155,
+				"h": 165
+			},
+			"sourceSize": {
+				"w": 155,
+				"h": 165
+			}
+		},
+		"dog.png": {
+			"frame": {
+				"x": 293,
+				"y": 1,
+				"w": 148,
+				"h": 170
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 148,
+				"h": 170
+			},
+			"sourceSize": {
+				"w": 148,
+				"h": 170
+			}
+		},
+		"dove.png": {
+			"frame": {
+				"x": 443,
+				"y": 1,
+				"w": 153,
+				"h": 170
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 153,
+				"h": 170
+			},
+			"sourceSize": {
+				"w": 153,
+				"h": 170
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 597,
+			"h": 172
+		},
+		"scale": "1"
+	}
+}
