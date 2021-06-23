@@ -1,0 +1,115 @@
+{
+	"frames": {
+		"ninja1.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 70,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 70,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 70,
+				"h": 70
+			}
+		},
+		"ninja2.png": {
+			"frame": {
+				"x": 73,
+				"y": 1,
+				"w": 70,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 70,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 70,
+				"h": 70
+			}
+		},
+		"ninja3.png": {
+			"frame": {
+				"x": 145,
+				"y": 1,
+				"w": 70,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 70,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 70,
+				"h": 70
+			}
+		},
+		"ninja4.png": {
+			"frame": {
+				"x": 217,
+				"y": 1,
+				"w": 70,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 70,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 70,
+				"h": 70
+			}
+		},
+		"ninja5.png": {
+			"frame": {
+				"x": 289,
+				"y": 1,
+				"w": 70,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 70,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 70,
+				"h": 70
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 360,
+			"h": 72
+		},
+		"scale": "1"
+	}
+}
