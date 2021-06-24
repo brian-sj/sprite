@@ -1,0 +1,175 @@
+{
+	"frames": {
+		"card_frame01.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 120,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 120,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 120,
+				"h": 160
+			}
+		},
+		"card_frame02.png": {
+			"frame": {
+				"x": 123,
+				"y": 1,
+				"w": 120,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 120,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 120,
+				"h": 160
+			}
+		},
+		"card_frame03.png": {
+			"frame": {
+				"x": 245,
+				"y": 1,
+				"w": 120,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 120,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 120,
+				"h": 160
+			}
+		},
+		"card_frame04.png": {
+			"frame": {
+				"x": 367,
+				"y": 1,
+				"w": 120,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 120,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 120,
+				"h": 160
+			}
+		},
+		"card_frame05.png": {
+			"frame": {
+				"x": 489,
+				"y": 1,
+				"w": 120,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 120,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 120,
+				"h": 160
+			}
+		},
+		"card_frame06.png": {
+			"frame": {
+				"x": 611,
+				"y": 1,
+				"w": 120,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 120,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 120,
+				"h": 160
+			}
+		},
+		"card_frame07.png": {
+			"frame": {
+				"x": 733,
+				"y": 1,
+				"w": 120,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 120,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 120,
+				"h": 160
+			}
+		},
+		"card_frame08.png": {
+			"frame": {
+				"x": 855,
+				"y": 1,
+				"w": 120,
+				"h": 160
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 120,
+				"h": 160
+			},
+			"sourceSize": {
+				"w": 120,
+				"h": 160
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 976,
+			"h": 162
+		},
+		"scale": "1"
+	}
+}
