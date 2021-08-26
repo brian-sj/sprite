@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 data : {
 	a:{
 		abc : ['A','V','a','o','d','Y'] ,
@@ -9,6 +10,14 @@ data : {
 		cards : ['apple' , 'arrow', 'anchor' ,'ant'] ,
 		w_cards : ['banana', 'bear' ,'bike' ,'butterfly' ] 
 	},
+=======
+data={
+	abc : ['A','V','a','o','d','Y'] ,
+	cards : ['apple' , 'arrow', 'anchor' ,'ant'] ,
+	w_cards : ['banana', 'bear' ,'bike' ,'butterfly' ],
+	pages: ['5.png','7.png','8.png','10.png','5.png']
+}
+>>>>>>> Stashed changes
 
 }
 
