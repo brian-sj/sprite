@@ -1,10 +1,18 @@
-data={
-	abc : ['A','V','a','o','d','Y'] ,
-	cards : ['apple' , 'arrow', 'anchor' ,'ant'] ,
-	w_cards : ['banana', 'bear' ,'bike' ,'butterfly' ] 
+data : {
+	a:{
+		abc : ['A','V','a','o','d','Y'] ,
+		cards : ['apple' , 'arrow', 'anchor' ,'ant'] ,
+		w_cards : ['banana', 'bear' ,'bike' ,'butterfly' ] 
+	},
+	b:{
+		abc : ['D','E','b','p','B','d'] ,
+		cards : ['apple' , 'arrow', 'anchor' ,'ant'] ,
+		w_cards : ['banana', 'bear' ,'bike' ,'butterfly' ] 
+	},
+
 }
 
-
+/*
 // abc :  ['D','E','b','p','B','d']
 // cards : ['banana' , 'bear', 'bike' ,'butterfly']  
 
@@ -27,3 +35,5 @@ data={
 
 // abc :  ['h','F','H','P','K','I']
 // cards : ['happy' , 'hen', 'hippo' ,'horse']  
+
+*/
