@@ -3,20 +3,61 @@ data : {
 	a:{
 		abc : ['A','V','a','o','d','Y'] ,
 		cards : ['apple' , 'arrow', 'anchor' ,'ant'] ,
-		w_cards : ['banana', 'bear' ,'bike' ,'butterfly' ] 
+		w_cards : ['banana', 'bear' ,'bike' ,'butterfly']
+		pages: ['5','7','8','10','11'] 
 	},
 	b:{
 		abc : ['D','E','b','p','B','d'] ,
-		cards : ['apple' , 'arrow', 'anchor' ,'ant'] ,
-		w_cards : ['banana', 'bear' ,'bike' ,'butterfly' ] 
+		cards : ['banana', 'bear' ,'bike' ,'butterfly'] ,
+		w_cards : ['anchor', 'arrow' ,'car' ,'cup'] , 
+		pages: ['13','15','16','19','20'] 
 	},
-=======
+	c:{
+		abc : ['q','C','G','g','c','d'] ,
+		cards : ['candy' , 'car', 'cup' ,'cow'] ,
+		w_cards : ['bear', 'bike' ,'dinosaur' ,'dog'] ,
+		pages: ['21','23','24','26','27'] 
+	},
+	d:{
+		abc : ['b','B','q','D','E','d'] ,
+		cards : ['deer' , 'dinosaur', 'dog' ,'dove'] ,
+		w_cards : ['candy', 'cow' ,'elf' ,'Eskimo'] ,
+		pages: ['29','31','32','34','35'] 
+	},	
+	e:{
+		abc : ['B','E','d','e','F','c'] ,
+		cards : ['egg' , 'elbow', 'elf' ,'Eskimo'] ,
+		w_cards : ['deer', 'dove' ,'family' ,'fish'] ,
+		pages: ['37','39','40','42','43'] 
+	},	
+	f:{
+		abc : ['E','D','t','F','j','f'] ,
+		cards : ['family' , 'fence', 'fish' ,'frog'] ,
+		w_cards : ['egg', 'elbow' ,'gift' ,'grapes'] ,
+		pages: ['45','47','48','50','51'] 
+	},		
+	g:{
+		abc : ['C','T','G','b','g','q'] ,
+		cards : ['gift' , 'girl', 'goat' ,'grapes'] ,
+		w_cards : ['fence', 'frog' ,'happy' ,'hen'] ,
+		pages: ['53','55','56','58','59'] 		 
+	},	
+	h:{
+		abc : ['h','F','H','P','K','l'] ,
+		cards : ['happy' , 'hen', 'hippo' ,'horse'] ,
+		w_cards : ['girl', 'goat' ,'icecream' ,'ivy'] ,
+		pages: ['61','63','64','66','67'] 				 
+	},	
+		
+	
+	=======
 data={
 	abc : ['A','V','a','o','d','Y'] ,
 	cards : ['apple' , 'arrow', 'anchor' ,'ant'] ,
 	w_cards : ['banana', 'bear' ,'bike' ,'butterfly' ],
-	pages: ['5.png','7.png','8.png','10.png','5.png']
+	pages: ['5','7','8','10','11']
 }
+
 >>>>>>> Stashed changes
 
 }
