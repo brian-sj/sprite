@@ -1,0 +1,175 @@
+{
+	"frames": {
+		"basket.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 600,
+				"h": 510
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 600,
+				"h": 510
+			},
+			"sourceSize": {
+				"w": 600,
+				"h": 510
+			}
+		},
+		"draw.png": {
+			"frame": {
+				"x": 603,
+				"y": 1,
+				"w": 510,
+				"h": 350
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 510,
+				"h": 350
+			},
+			"sourceSize": {
+				"w": 510,
+				"h": 350
+			}
+		},
+		"drawline_g.png": {
+			"frame": {
+				"x": 1115,
+				"y": 1,
+				"w": 370,
+				"h": 522
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 370,
+				"h": 522
+			},
+			"sourceSize": {
+				"w": 370,
+				"h": 522
+			}
+		},
+		"findletter_g.png": {
+			"frame": {
+				"x": 1487,
+				"y": 1,
+				"w": 370,
+				"h": 522
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 370,
+				"h": 522
+			},
+			"sourceSize": {
+				"w": 370,
+				"h": 522
+			}
+		},
+		"grass.png": {
+			"frame": {
+				"x": 1859,
+				"y": 1,
+				"w": 165,
+				"h": 240
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 165,
+				"h": 240
+			},
+			"sourceSize": {
+				"w": 165,
+				"h": 240
+			}
+		},
+		"listencircle.png": {
+			"frame": {
+				"x": 2026,
+				"y": 1,
+				"w": 370,
+				"h": 522
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 370,
+				"h": 522
+			},
+			"sourceSize": {
+				"w": 370,
+				"h": 522
+			}
+		},
+		"listencolor.png": {
+			"frame": {
+				"x": 2398,
+				"y": 1,
+				"w": 370,
+				"h": 522
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 370,
+				"h": 522
+			},
+			"sourceSize": {
+				"w": 370,
+				"h": 522
+			}
+		},
+		"listentrace.png": {
+			"frame": {
+				"x": 2770,
+				"y": 1,
+				"w": 370,
+				"h": 522
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 370,
+				"h": 522
+			},
+			"sourceSize": {
+				"w": 370,
+				"h": 522
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 3141,
+			"h": 524
+		},
+		"scale": "1"
+	}
+}

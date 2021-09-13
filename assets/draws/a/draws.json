@@ -4,140 +4,160 @@
 			"frame": {
 				"x": 1,
 				"y": 1,
-				"w": 501,
-				"h": 513
+				"w": 424,
+				"h": 426
 			},
 			"rotated": false,
 			"trimmed": false,
 			"spriteSourceSize": {
 				"x": 0,
 				"y": 0,
-				"w": 501,
-				"h": 513
+				"w": 424,
+				"h": 426
 			},
 			"sourceSize": {
-				"w": 501,
-				"h": 513
+				"w": 424,
+				"h": 426
 			}
 		},
 		"draw.png": {
 			"frame": {
-				"x": 504,
+				"x": 427,
 				"y": 1,
-				"w": 389,
-				"h": 254
+				"w": 510,
+				"h": 350
 			},
 			"rotated": false,
 			"trimmed": false,
 			"spriteSourceSize": {
 				"x": 0,
 				"y": 0,
-				"w": 389,
-				"h": 254
+				"w": 510,
+				"h": 350
 			},
 			"sourceSize": {
-				"w": 389,
-				"h": 254
+				"w": 510,
+				"h": 350
 			}
 		},
 		"drawline.png": {
 			"frame": {
-				"x": 895,
+				"x": 939,
 				"y": 1,
-				"w": 680,
-				"h": 850
+				"w": 370,
+				"h": 522
 			},
 			"rotated": false,
 			"trimmed": false,
 			"spriteSourceSize": {
 				"x": 0,
 				"y": 0,
-				"w": 680,
-				"h": 850
+				"w": 370,
+				"h": 522
 			},
 			"sourceSize": {
-				"w": 680,
-				"h": 850
+				"w": 370,
+				"h": 522
 			}
 		},
 		"findletter.png": {
 			"frame": {
-				"x": 1577,
+				"x": 1311,
 				"y": 1,
-				"w": 680,
-				"h": 850
+				"w": 370,
+				"h": 522
 			},
 			"rotated": false,
 			"trimmed": false,
 			"spriteSourceSize": {
 				"x": 0,
 				"y": 0,
-				"w": 680,
-				"h": 850
+				"w": 370,
+				"h": 522
 			},
 			"sourceSize": {
-				"w": 680,
-				"h": 850
+				"w": 370,
+				"h": 522
+			}
+		},
+		"grass.png": {
+			"frame": {
+				"x": 1683,
+				"y": 1,
+				"w": 412,
+				"h": 193
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 412,
+				"h": 193
+			},
+			"sourceSize": {
+				"w": 412,
+				"h": 193
 			}
 		},
 		"listencircle.png": {
 			"frame": {
-				"x": 2259,
+				"x": 2097,
 				"y": 1,
-				"w": 680,
-				"h": 850
+				"w": 370,
+				"h": 522
 			},
 			"rotated": false,
 			"trimmed": false,
 			"spriteSourceSize": {
 				"x": 0,
 				"y": 0,
-				"w": 680,
-				"h": 850
+				"w": 370,
+				"h": 522
 			},
 			"sourceSize": {
-				"w": 680,
-				"h": 850
+				"w": 370,
+				"h": 522
 			}
 		},
 		"listencolor.png": {
 			"frame": {
-				"x": 2941,
+				"x": 2469,
 				"y": 1,
-				"w": 680,
-				"h": 850
+				"w": 370,
+				"h": 522
 			},
 			"rotated": false,
 			"trimmed": false,
 			"spriteSourceSize": {
 				"x": 0,
 				"y": 0,
-				"w": 680,
-				"h": 850
+				"w": 370,
+				"h": 522
 			},
 			"sourceSize": {
-				"w": 680,
-				"h": 850
+				"w": 370,
+				"h": 522
 			}
 		},
 		"listentrace.png": {
 			"frame": {
-				"x": 3623,
+				"x": 2841,
 				"y": 1,
-				"w": 680,
-				"h": 850
+				"w": 370,
+				"h": 522
 			},
 			"rotated": false,
 			"trimmed": false,
 			"spriteSourceSize": {
 				"x": 0,
 				"y": 0,
-				"w": 680,
-				"h": 850
+				"w": 370,
+				"h": 522
 			},
 			"sourceSize": {
-				"w": 680,
-				"h": 850
+				"w": 370,
+				"h": 522
 			}
 		}
 	},
@@ -147,8 +167,8 @@
 		"image": "spritesheet.png",
 		"format": "RGBA8888",
 		"size": {
-			"w": 4304,
-			"h": 852
+			"w": 3212,
+			"h": 524
 		},
 		"scale": "1"
 	}
